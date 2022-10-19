@@ -19,5 +19,8 @@ class Math{
 		return one - two;
 	}
 
+    public int multi(int one, int two) {
+        return one * two;
+    }
 
 }
