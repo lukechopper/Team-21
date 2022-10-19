@@ -4,10 +4,6 @@ class Math{
 
 	}
 
-	public int Max(int one, int two){
-		return one > two ? one : two;
-	}
-
 	public int Add(int one, int two){
 		return one + two;
 	}
