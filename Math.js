@@ -1,4 +1,4 @@
-class Math{
+public class Math{
 
 	public Math(){
 
@@ -13,6 +13,10 @@ class Math{
 
     public int multi(int one, int two) {
         return one * two;
+    }
+
+    public int div(int one, int two){
+    	return one / two;
     }
 
 }
